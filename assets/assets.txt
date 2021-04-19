@@ -1,0 +1,25 @@
+Source Images :
+1. logo_ig.png		: http://pluspng.com/img-png/instagram-png-instagram-logo-512.png
+2. logo_fb.png		: http://pluspng.com/img-png/facebook-transparent-logo-png-image-38347-1600.png
+3. logo_tw.png		: http://pluspng.com/img-png/bird-new-single-twitter-icon-icon-search-engine-image-93-491.png
+4. logo_yt.png		: http://pluspng.com/img-png/youtube-png-youtube-png-picture-png-image-2272.png
+5. logo_wa.png		: http://pluspng.com/img-png/whatsapp-png-whatsapp-logo-png-1000.png
+6. home1.jpg		: https://images.unsplash.com/photo-1527965512280-9cf155bcb87d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+7. home2.jpg		: https://images.unsplash.com/photo-1512192397443-4fd4ed400de3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+8. home3.jpg		: https://images.unsplash.com/photo-1514606131646-db4f85998ff5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1393&q=80
+9. home4.jpg		: https://images.unsplash.com/photo-1510611280575-f007416f59f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+10. home5.jpg		: https://images.unsplash.com/photo-1512984860921-592685ac9905?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+11. home6.jpg		: https://images.unsplash.com/photo-1530339807835-4512faf804c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80
+12. recent1.jpg		: https://images.unsplash.com/photo-1524655104453-91f9338ecb94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+13. recent2.jpg		: https://images.unsplash.com/photo-1507910556454-0a70b46b6feb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80
+14. port1.jpg		: https://images.unsplash.com/photo-1528349511202-9d2bf30525dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+15. port2.jpg		: https://images.unsplash.com/photo-1509716031279-5fea8d38efa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+16. port3.jpg		: https://images.unsplash.com/photo-1517295189089-a770550dee61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+17. port4.jpg		: https://images.unsplash.com/photo-1517305542662-2dd61accb41d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIxMTIzfQ&auto=format&fit=crop&w=750&q=80
+18. parallax1.jpg	: https://images.unsplash.com/photo-1517305349393-aad1f0ee4328?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=709&q=80
+19. home7.jpg		: https://images.unsplash.com/photo-1529795489572-017b92fa3c37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+20. home8.jpg		: https://images.unsplash.com/photo-1533632368662-0cdf02790f17?ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80
+21. home9.jpg		: https://images.unsplash.com/photo-1509804157252-7ba062d5363d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+
+Source Font :
+1. Karla		: https://fonts.google.com/specimen/Karla
